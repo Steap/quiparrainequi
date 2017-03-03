@@ -1,0 +1,87 @@
+<html>
+<head>
+  <title>Qui parraine qui ?</title>
+  <meta charset="UTF-8">
+
+  <!-- Data -->
+  <script src="web.jsonp"></script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="jquery-ui.css">
+  <link rel="stylesheet" href="jqplot/jquery.jqplot.min.css">
+
+  <!-- Jquery -->
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <!-- jqplot -->
+  <script src="jqplot/jquery.jqplot.min.js"></script>
+  <script src="jqplot/plugins/jqplot.barRenderer.js"></script>
+  <script src="jqplot/plugins/jqplot.pieRenderer.js"></script>
+  <script src="jqplot/plugins/jqplot.categoryAxisRenderer.js"></script>
+  <script src="jqplot/plugins/jqplot.canvasTextRenderer.js"></script>
+  <script src="jqplot/plugins/jqplot.canvasAxisLabelRenderer.js"></script>
+  <script src="jqplot/plugins/jqplot.canvasAxisTickRenderer.js"></script>
+  <script src="jqplot/plugins/jqplot.highlighter.js"></script>
+  <script src="jqplot/plugins/jqplot.dateAxisRenderer.js"></script>
+
+  <!-- Our own scripts -->
+  <script src="parrainages.js"></script>
+
+</head>
+
+<body>
+<h1>Qui parraine qui ?</h1>
+
+<!-- Introduction -->
+<h2>Qu'est-ce que ceci ?</h1>
+<div id="accordion-intro">
+
+<h3>Intro</h3>
+<div><p>Il semblerait qu'une élection présidentielle approche. Chaque candidat doit
+être « parrainé » par des élus (maires, sénateurs, ...). Ces parrainages sont
+rendus publics par le Conseil Constitutionnel. Il peut être intéressant
+d'établir quelques statistiques afin de savoir quels sont les candidats préférés
+d'une tranche d'âge, d'une catégorie socio-professionnelle... ou d'un
+parti.</p></div>
+
+<h3>Sources</h3>
+<div><p>On travaille sérieusement, citons donc nos sources :
+<ul>
+<li>La liste des parrainages est <a
+href="https://presidentielle2017.conseil-constitutionnel.fr/?dwl=1526">mise en
+ligne</a> par le Conseil Constitutionnel;</li>
+<li>Les dates de naissance et catégories socio-professionnelles des maires
+viennent du programme « <a
+href="https://www.data.gouv.fr/fr/datasets/liste-des-maires-au-25-avril-2014/">
+Open Data »</a> du gouvernement;</li>
+<li>Certaines infos concernant les maires ont dû être "manuellement" récupérées;
+les sources sont disponibles <a
+href="https://github.com/Steap/quiparrainequi/blob/master/data/main_maires.json">ici</a>.</li>
+</ul></p></div>
+
+<h3>Contribuez !</h3>
+<div><p>Vous pouvez contribuer :
+<ul>
+<li>Du code : https://github.com/Steap/quiparrainequi;</li>
+<li>Des liens vers des données facilement extractibles concernant les élus;</li>
+<li>Des données concernant les partis politiques auxquels appartiennent les
+élus;</li>
+<li>Vos suggestions !</li>
+</ul>
+</p></div>
+</div>
+
+<!-- Candidats -->
+<h2>Candidats</h2>
+<div id="candidates"></div>
+ 
+<!-- Parrains (CSP) -->
+<h2>Parrains par CSP</h2>
+<div id="parrains-csp"></div>
+
+<script type="text/javascript">
+build_everything();
+</script>
+</body>
+</html>

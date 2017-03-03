@@ -1,0 +1,296 @@
+[
+    {
+        "Nom": "AVIRAGNET",
+        "Prénom": "Joël",
+        "Naissance": "6/16/1956",
+        "Parti": "PS",
+        "Source": "https://fr.wikipedia.org/wiki/Jo%C3%ABl_Aviragnet"
+    },
+    {
+        "Nom": "BERGE",
+        "Prénom": "Yves",
+        "Naissance": "01/26/1950",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-saint-mard-54"
+    },
+    {
+        "Nom": "BIC",
+        "Prénom": "Jean-Jacques",
+        "Naissance": "11/13/1950",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-autreville-sur-moselle-54"
+    },
+    {
+        "Nom": "BILOT",
+        "Prénom": "Charles",
+        "Naissance": "05/07/1935",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-avrainville-54"
+    },
+    {
+        "Nom": "BLOT",
+        "Prénom": "Jean-Pierre",
+        "Naissance": "5/23/1941",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-cambronne-les-clermont-60"
+    },
+    {
+        "Nom": "BUVET",
+        "Prénom": "Daniel",
+        "Naissance": "12/11/1941",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-bernecourt-54"
+    },
+    {
+        "Nom": "CANAL",
+        "Prénom": "Martine",
+        "Naissance": "06/11/1956",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-castagnede-31"
+    },
+    {
+        "Nom": "CAPDEVIELLE",
+        "Prénom": "Michel",
+        "Naissance": "09/01/1946",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-gelaucourt-54"
+    },
+    {
+        "Nom": "CARON",
+        "Prénom": "Christophe",
+        "Naissance": "10/21/1968",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-meyssac-19"
+    },
+    {
+        "Nom": "CHENU",
+        "Prénom": "Noël",
+        "Naissance": "12/30/1944",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-rozieres-sur-crise-02"
+    },
+    {
+        "Nom": "CORNU",
+        "Prénom": "Patrice",
+        "Naissance": "03/09/1946",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-montepilloy-60"
+    },
+    {
+        "Nom": "COUTEAU",
+        "Prénom": "Marc",
+        "Naissance": "11/20/1953",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-vauxrezis-02"
+    },
+    {
+        "Nom": "COUVREUR",
+        "Prénom": "Gérard",
+        "Naissance": "4/6/1944",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-missy-aux-bois-02"
+    },
+    {
+        "Nom": "DELAGE",
+        "Prénom": "Annie",
+        "Naissance": "3/13/1947",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-fossemagne-24"
+    },
+    {
+        "Nom": "DIDELOT",
+        "Prénom": "Philippe",
+        "Naissance": "12/04/1951",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-tramont-emy-54"
+    },
+    {
+        "Nom": "DELFOLIE",
+        "Prénom": "Yves",
+        "Naissance": "9/8/1943",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-merris-59"
+    },
+    {
+        "Nom": "FAROUX",
+        "Prénom": "Jean-Michel",
+        "Naissance": "3/15/1956",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-mauprevoir-86"
+    },
+    {
+        "Nom": "GAMBOTTI",
+        "Prénom": "Alexandre",
+        "Naissance": "04/08/1943",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-ficaja-2b"
+    },
+    {
+        "Nom": "GIRARDEAU",
+        "Prénom": "Daniel",
+        "Naissance": "01/20/1950",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-mirebeau-86"
+    },
+    {
+        "Nom": "GODET",
+        "Prénom": "Martine",
+        "Naissance": "7/6/1956",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-savigny-sous-faye-86"
+    },
+    {
+        "Nom": "GORET",
+        "Prénom": "Gérard",
+        "Naissance": "06/09/1941",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-fontaine-lavaganne-60"
+    },
+    {
+        "Nom": "GRAS",
+        "Prénom": "Guillaume",
+        "Naissance": "05/21/1974",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-puechredon-30"
+    },
+    {
+        "Nom": "HUCHET DE LA BEDOYERE",
+        "Prénom": "Jean-Marc",
+        "Naissance": "11/6/1946",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-raray-60"
+    },
+    {
+        "Nom": "LAINE",
+        "Prénom": "Fabien",
+        "Naissance": "4/15/1976",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-sanguinet-40"
+    },
+    {
+        "Nom": "LAINE",
+        "Prénom": "Yves",
+        "Naissance": "5/15/1946",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-le-pouliguen-44"
+    },
+    {
+        "Nom": "LANFRIT",
+        "Prénom": "Roland",
+        "Naissance": "12/05/1958",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-neunkirchen-les-bouzonville-57"
+    },
+    {
+        "Nom": "MADELEINE",
+        "Prénom": "Jérôme",
+        "Naissance": "9/8/1964",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-lostanges-19"
+    },
+    {
+        "Nom": "MADIOT",
+        "Prénom": "Claude",
+        "Naissance": "12/08/1946",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-missy-sur-aisne-02"
+    },
+    {
+        "Nom": "MAGNER",
+        "Prénom": "Jacques-Bernard",
+        "Naissance": "6/1/1952",
+        "Parti": "PS",
+        "Source": "https://fr.wikipedia.org/wiki/Jacques-Bernard_Magner"
+    },
+    {
+        "Nom": "MARCELLIN",
+        "Prénom": "Bruno",
+        "Naissance": "04/28/1970",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-margival-02"
+    },
+    {
+        "Nom": "MAVIGNER",
+        "Prénom": "André",
+        "Naissance": "4/2/1951",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-benevent-labbaye-23"
+    },
+    {
+        "Nom": "MELO",
+        "Prénom": "Isabelle",
+        "Naissance": "03/30/1965",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-channay-sur-lathan-37"
+    },
+    {
+        "Nom": "NOËL",
+        "Prénom": "Benoit",
+        "Naissance": "6/10/1967",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-sebeville-50"
+    },
+    {
+        "Nom": "PETIGNY",
+        "Prénom": "Nadine",
+        "Naissance": "05/11/1959",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-roy-boissy-60"
+    },
+    {
+        "Nom": "PIROUE",
+        "Prénom": "Béatrice",
+        "Naissance": "05/16/1957",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-juvaincourt-88"
+    },
+    {
+        "Nom": "POUPINEL DESCAMBRES",
+        "Prénom": "Didier",
+        "Naissance": "09/08/1951",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-talus-saint-prix-51"
+    },
+    {
+        "Nom": "PRADAL",
+        "Prénom": "Philippe",
+        "Naissance": "2/1/1963",
+        "Parti": "LR",
+        "Source": "https://fr.wikipedia.org/wiki/Philippe_Pradal"
+    },
+    {
+        "Nom": "RAHON",
+        "Prénom": "François",
+        "Naissance": "9/4/1963",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-goudelancourt-les-berrieux-02"
+    },
+    {
+        "Nom": "SANCHEZ",
+        "Prénom": "Fabrice",
+        "Naissance": "11/4/1963",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-masserac-44"
+    },
+    {
+        "Nom": "SEBI",
+        "Prénom": "Jacques",
+        "Naissance": "7/23/1953",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-montrabe-31"
+    },
+    {
+        "Nom": "TEULE",
+        "Prénom": "Jean-Paul",
+        "Naissance": "8/1/1956",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-bentayou-seree-64"
+    },
+    {
+        "Nom": "TOUBERT",
+        "Prénom": "Thierry",
+        "Naissance": "12/29/1965",
+        "Parti": "N/A",
+        "Source": "http://www.mon-maire.fr/maire-de-ciadoux-31"
+    }
+]
