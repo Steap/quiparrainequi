@@ -87,12 +87,15 @@ var jobs = {
 function build_candidate_age_graph(stats, chart_id) {
     var ticks = []
     var data = []
+    var title = 'Répartition des parrainages par âge (inconnu pour '
+    title += stats['age']['117']+ ' élus)'
+    delete stats['age']['117']
     Object.keys(stats['age']).sort(sort_as_integers).forEach(function (m) {
       ticks.push(m)
       data.push(stats['age'][m])
     });
     $.jqplot(chart_id, [data], {
-        title: 'Répartition des parrainages par âge (117 ans -> âge inconnu)',
+        title: title,
         animate: false,
         seriesDefaults:{
 	    renderer:$.jqplot.BarRenderer,
