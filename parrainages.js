@@ -213,7 +213,11 @@ function build_candidate_mandate_graph(stats, chart_id) {
 function build_candidate_graphs(stats) {
     var ids_to_names = {}
     Object.keys(stats).sort().forEach(function (candidate, i) {
-        $("#candidates").append("<h3>"+candidate+"</h3>")
+        var total = stats[candidate]['total']
+        var p = 'parrainage'
+        if (total > 1)
+            p += 's'
+        $("#candidates").append("<h3>"+candidate+" (" + total + " " + p + ")</h3>")
         var candidate_id = "c"+i
         ids_to_names[candidate_id] = candidate;
         div = '<div id="' + candidate_id + '"></div>'

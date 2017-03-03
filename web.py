@@ -124,6 +124,7 @@ def generate_stats(candidates):
         s['gender'] = {'M': 0, 'F': 0}
         s['job'] = {}
         s['mandate'] = {}
+        s['total'] = len(candidate.soutiens)
         for soutien in candidate.soutiens:
             s['age'][str(soutien.age)] += 1
 
@@ -149,7 +150,7 @@ def generate_stats(candidates):
                 j[candidate.name] += 1
             except KeyError:
                 j[candidate.name] = 1
-            
+
     return stats
 
 
