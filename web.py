@@ -177,7 +177,7 @@ def main():
     read_data_mayors()
     read_data_sen_dep()
 
-    with open('data/tous20170307.json') as f:
+    with open('data/tous20170310-1.json') as f:
         p = json.load(f)
 
     candidates = []
